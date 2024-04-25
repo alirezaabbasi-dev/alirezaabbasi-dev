@@ -1,5 +1,5 @@
 ## Hi there, I'm Kiyan Abbasi <sub> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </sub>
-> I am very interested in programming and I know Html&css completely and I know c# to some extent, but I want to learn javascript and web completely.
+> I am very interested in programming and I know Html&css completely and I know C, C# to some extent, but I want to learn javascript and web completely.
 #### <img src="https://github.com/alirezaabbasi-dev/alirezaabbasi-dev/assets/133563624/32a666e1-d214-482e-aae0-ac0be5cf4b07" width="20px" height="20px" > <sup> I’m interested in Web&Desktop Programming. </sup>
 #### <img src="https://github.com/alirezaabbasi-dev/alirezaabbasi-dev/assets/133563624/a43768c4-1e3a-47dc-8faa-6dfd6530303a" width="20px" height="20px" > <sup> I’m currently learning java script.</sup>
 #### <img src="https://github.com/alirezaabbasi-dev/alirezaabbasi-dev/assets/133563624/6e4e1241-02ec-4b9b-81fe-22fe4435d3ff" width="20px" height="20px" > <sup> I'm so a _singer_ , and you can listen my music's on <a href="https://soundcloud.com/imkiyan">**soundcloud**.</sup></a> 
