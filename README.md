@@ -56,7 +56,7 @@ Let's build and innovate together! 🚀
 <hr>
 
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=alirezaabbasi-dev\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alirezaabbasi-dev&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=alirezaabbasi-dev\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alirezaabbasi-dev&theme=tokyonight&theme=icegray&border_radius=8) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
