@@ -42,43 +42,43 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
   <tr>
   <!-- HTML -->
     <td>
-  <img src="https://github.com/user-attachments/assets/aadf3ea2-699e-44d7-9afa-1f5b6828da10" alt="HTML" width="80" />
+  <img src="https://github.com/user-attachments/assets/aadf3ea2-699e-44d7-9afa-1f5b6828da10" alt="HTML"  />
     </td>
 <!-- CSS -->
     <td>
-  <img src="https://github.com/user-attachments/assets/1361bc17-550c-4935-87de-c1c383e006f0" alt="Css" width="80" />
+  <img src="https://github.com/user-attachments/assets/1361bc17-550c-4935-87de-c1c383e006f0" alt="Css"  />
     </td>
 <!-- javascript -->
       <td>
-  <img src="https://github.com/user-attachments/assets/a47564a1-40ee-4a2c-b583-d5bc0eb42473" alt="javascript" width="80" />
+  <img src="https://github.com/user-attachments/assets/a47564a1-40ee-4a2c-b583-d5bc0eb42473" alt="javascript"  />
       </td>
 <!-- react -->
       <td>
-  <img src="https://github.com/user-attachments/assets/f9d807f9-a0bd-40c1-be12-6026ca8985a2" alt="react" width="80" />
+  <img src="https://github.com/user-attachments/assets/f9d807f9-a0bd-40c1-be12-6026ca8985a2" alt="react"  />
       </td>
 <!-- tailwind -->
       <td>
-  <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" width="80" />
+  <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" />
       </td>
 <!-- bootstrap -->
     <td>
-  <img src="https://github.com/user-attachments/assets/9b999741-c60a-42bd-8fcc-807308ea27c9" alt="bootstrap" width="80" />
+  <img src="https://github.com/user-attachments/assets/9b999741-c60a-42bd-8fcc-807308ea27c9" alt="bootstrap" />
     </td>
 <!-- mui -->
     <td>
-  <img src="https://github.com/user-attachments/assets/8db1c42a-81bf-4679-b5c3-0dcb6aed8e0a" alt="mui" width="80" />
+  <img src="https://github.com/user-attachments/assets/8db1c42a-81bf-4679-b5c3-0dcb6aed8e0a" alt="mui"  />
     </td>
 <!-- git -->
       <td>
-  <img src="https://github.com/user-attachments/assets/b33da6cd-f9c7-45eb-9f50-ff0b824d42f6" alt="git" width="80" />
+  <img src="https://github.com/user-attachments/assets/b33da6cd-f9c7-45eb-9f50-ff0b824d42f6" alt="git" />
       </td>
 <!-- react router -->
       <td>
-  <img src="https://github.com/user-attachments/assets/da4f58e0-7153-40f5-b68e-e3d7f00f606b" alt="react router" width="80" />
+  <img src="https://github.com/user-attachments/assets/da4f58e0-7153-40f5-b68e-e3d7f00f606b" alt="react router" />
       </td>
     <!-- axios -->
     <td>
-  <img src="https://github.com/user-attachments/assets/22f4cbf1-a508-42d8-a7da-e6d2891b4712" alt="axios" width="80" />
+  <img src="https://github.com/user-attachments/assets/22f4cbf1-a508-42d8-a7da-e6d2891b4712" alt="axios" />
     </td>
 
   </tr>
