@@ -1,8 +1,8 @@
-![github-header-image](https://github.com/user-attachments/assets/db6c8df9-2f6e-4d11-9e63-3356d4569ac9)
-![js banner](https://github.com/user-attachments/assets/41ac9e7a-c55a-40f5-8c5b-4995116add46)
+![github-header-image](https://github.com/user-attachments/assets/58ed854d-dd98-4db3-b698-fdb59c359f80)
+
 # Hi there, I'm Kiyan! 👋
 
-**💻 Frontend Developer | 🎵 Music Producer**  
+**💻 Frontend Developer | 🎵 Music Producer**
 Passionate about web development, UI/UX, and creating immersive experiences. Also, a music enthusiast composing and producing tracks! 🚀
 
 ---
@@ -34,32 +34,103 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 
 ---
 
-## 📫 Get in Touch:
+# Skills <img src='https://github.com/user-attachments/assets/062ef012-a20b-4b97-aeeb-462b5874d24d' align="left" width="40">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/alirezaabbasi-dev)   
+<div align="center">
+
+<table>
+  <tr>
+  <!-- HTML -->
+    <td>
+  <img src="https://github.com/user-attachments/assets/aadf3ea2-699e-44d7-9afa-1f5b6828da10" alt="HTML" width="80" />
+    </td>
+<!-- CSS -->
+    <td>
+  <img src="https://github.com/user-attachments/assets/1361bc17-550c-4935-87de-c1c383e006f0" alt="Css" width="80" />
+    </td>
+<!-- javascript -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/a47564a1-40ee-4a2c-b583-d5bc0eb42473" alt="javascript" width="80" />
+      </td>
+<!-- react -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/f9d807f9-a0bd-40c1-be12-6026ca8985a2" alt="react" width="80" />
+      </td>
+<!-- tailwind -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" width="80" />
+      </td>
+<!-- bootstrap -->
+    <td>
+  <img src="https://github.com/user-attachments/assets/9b999741-c60a-42bd-8fcc-807308ea27c9" alt="bootstrap" width="80" />
+    </td>
+<!-- mui -->
+    <td>
+  <img src="https://github.com/user-attachments/assets/8db1c42a-81bf-4679-b5c3-0dcb6aed8e0a" alt="mui" width="80" />
+    </td>
+<!-- git -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/b33da6cd-f9c7-45eb-9f50-ff0b824d42f6" alt="git" width="80" />
+      </td>
+<!-- react router -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/da4f58e0-7153-40f5-b68e-e3d7f00f606b" alt="react router" width="80" />
+      </td>
+    <!-- axios -->
+    <td>
+  <img src="https://github.com/user-attachments/assets/22f4cbf1-a508-42d8-a7da-e6d2891b4712" alt="axios" width="80" />
+    </td>
+
+  </tr>
+</table>
+
+  ## Learning
+
+  <table>
+    <tr>
+<!-- redux -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/e0eebd6b-59ae-40c4-a3ae-28372469abc6" alt="redux" width="80" />
+      </td>
+<!-- next -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/6f2b55a5-c294-4b33-b0e7-cd071104546c" alt="next" width="80" />
+      </td>
+<!-- typescript -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/9894eb53-89fa-4e52-9fff-889b8655ddd4" alt="typescript" width="80" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+## 📫 Socials:
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/alirezaabbasi-dev)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/alirezaabbasi-dev/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiyan-abbasi/)
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kiyan_abbasi)
 <img align="center" src="https://github.com/user-attachments/assets/4322715c-8efd-48e5-a886-1cc6d4f9be90" width="30px">
 [Email to me](mailto:alirezaabbasi001@outlook.com)
 
-Let's build and innovate together! 🚀
-# Skills <img src='https://github.com/user-attachments/assets/062ef012-a20b-4b97-aeeb-462b5874d24d' align="left" width="40"> 
-
-| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Frameworks           | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                       |
-| Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/1d2ba8c3-689b-4adf-9b20-429ac2f0ea10)                                                                                                                                                                                                                         |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
-| Services & Tools     | <a href="https://github.com/alirezaabbasi-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/b240c5cb-18d6-4546-9644-1857e0efffe8) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c61622d2532333138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/39408fb7-6200-498d-aadc-e3a43d65dbe2) |
-| IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Design Tools         | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Learning             | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-  
+</div>
+<p align="center">Let's build and innovate together! 🚀</p>
 <hr>
+<div align="center">
+<!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezaabbasi-dev" alt="GitHub Streak" />
+<!-- Kiyan's GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezaabbasi-dev" alt="Kiyan's GitHub stats" />
+<!-- Top Langs -->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaabbasi-dev\&layout=donut-vertical)](https://github.com/alirezaabbasi-dev)
+  <!-- repo KIUI -->
+  [![KIUI Repo](https://github-readme-stats.vercel.app/api/pin/?username=alirezaabbasi-dev&repo=KIUI)](https://github.com/alirezaabbasi-dev/KIUI)
 
 
-| ![github stats](https://github-readme-stats.vercel.app/api?username=alirezaabbasi-dev\&rank_icon=percentile&show_icons=true&theme=vision-friendly-dark) <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaabbasi-dev&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alirezaabbasi-dev&theme=vision-friendly-dark&theme=vision-friendly-dark&border_radius=8)   | 
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezaabbasi-dev&bg_color=111d2c&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=false" />
 
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezaabbasi-dev&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=false" />
