@@ -10,16 +10,19 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 ## 🚀 Tech Stack & Skills:
 
 ### **Frontend Development:**
+
 - **Languages:** HTML, CSS, JavaScript (Advanced)
 - **Frameworks & Libraries:** React (Learning)
 - **Design & Layout:** Flexbox, Grid, Responsive Design
 
 ### **Tools & Platforms:**
+
 - Git & GitHub
 - API Integration
 - UI/UX Principles
 
 ### **Music Production:**
+
 - Singer
 - FL Studio (Mixing & Mastering)
 - Composing & Arranging
@@ -28,6 +31,7 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 ---
 
 ## 📌 A Bit About Me:
+
 - 🌍 Enthusiastic about **space, AI, and future technologies**
 - 📸 Love **photography** and capturing the world around me
 - 🔭 Always **learning and exploring** new things
@@ -38,53 +42,58 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 
 <div align="center">
 
-<table>
+<table  style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <tr>
   <!-- HTML -->
     <td>
-  <img src="https://github.com/user-attachments/assets/aadf3ea2-699e-44d7-9afa-1f5b6828da10" alt="HTML"  />
+  <img src="https://github.com/user-attachments/assets/aadf3ea2-699e-44d7-9afa-1f5b6828da10" alt="HTML" width="80"/>
     </td>
 <!-- CSS -->
     <td>
-  <img src="https://github.com/user-attachments/assets/1361bc17-550c-4935-87de-c1c383e006f0" alt="Css"  />
+  <img src="https://github.com/user-attachments/assets/1361bc17-550c-4935-87de-c1c383e006f0" alt="Css" width="80"/>
     </td>
 <!-- javascript -->
       <td>
-  <img src="https://github.com/user-attachments/assets/a47564a1-40ee-4a2c-b583-d5bc0eb42473" alt="javascript"  />
+  <img src="https://github.com/user-attachments/assets/a47564a1-40ee-4a2c-b583-d5bc0eb42473" alt="javascript" width="80"/>
       </td>
 <!-- react -->
       <td>
-  <img src="https://github.com/user-attachments/assets/f9d807f9-a0bd-40c1-be12-6026ca8985a2" alt="react"  />
+  <img src="https://github.com/user-attachments/assets/f9d807f9-a0bd-40c1-be12-6026ca8985a2" alt="react" width="80"/>
       </td>
+  </tr>
+
+</table>
+    <table>
+  <tr>
 <!-- tailwind -->
       <td>
-  <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" />
+  <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" width="80" />
       </td>
 <!-- bootstrap -->
     <td>
-  <img src="https://github.com/user-attachments/assets/9b999741-c60a-42bd-8fcc-807308ea27c9" alt="bootstrap" />
+  <img src="https://github.com/user-attachments/assets/9b999741-c60a-42bd-8fcc-807308ea27c9" alt="bootstrap" width="80"/>
     </td>
 <!-- mui -->
     <td>
-  <img src="https://github.com/user-attachments/assets/8db1c42a-81bf-4679-b5c3-0dcb6aed8e0a" alt="mui"  />
+  <img src="https://github.com/user-attachments/assets/8db1c42a-81bf-4679-b5c3-0dcb6aed8e0a" alt="mui"  width="80"/>
     </td>
 <!-- git -->
       <td>
-  <img src="https://github.com/user-attachments/assets/b33da6cd-f9c7-45eb-9f50-ff0b824d42f6" alt="git" />
+  <img src="https://github.com/user-attachments/assets/b33da6cd-f9c7-45eb-9f50-ff0b824d42f6" alt="git" width="80"/>
       </td>
 <!-- react router -->
       <td>
-  <img src="https://github.com/user-attachments/assets/da4f58e0-7153-40f5-b68e-e3d7f00f606b" alt="react router" />
+  <img src="https://github.com/user-attachments/assets/da4f58e0-7153-40f5-b68e-e3d7f00f606b" alt="react router" width="80"/>
       </td>
     <!-- axios -->
     <td>
-  <img src="https://github.com/user-attachments/assets/22f4cbf1-a508-42d8-a7da-e6d2891b4712" alt="axios" />
+  <img src="https://github.com/user-attachments/assets/22f4cbf1-a508-42d8-a7da-e6d2891b4712" alt="axios" width="80"/>
     </td>
 
   </tr>
 </table>
 
-  ## Learning
+## Learning
 
   <table>
     <tr>
@@ -125,12 +134,12 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 <!-- Kiyan's GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=alirezaabbasi-dev" alt="Kiyan's GitHub stats" />
 <!-- Top Langs -->
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaabbasi-dev\&layout=donut-vertical)](https://github.com/alirezaabbasi-dev)
-  <!-- repo KIUI -->
-  [![KIUI Repo](https://github-readme-stats.vercel.app/api/pin/?username=alirezaabbasi-dev&repo=KIUI)](https://github.com/alirezaabbasi-dev/KIUI)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaabbasi-dev&layout=donut-vertical)](https://github.com/alirezaabbasi-dev)
+
+  <!-- repo KIUI -->
+
+[![KIUI Repo](https://github-readme-stats.vercel.app/api/pin/?username=alirezaabbasi-dev&repo=KIUI)](https://github.com/alirezaabbasi-dev/KIUI)
 
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezaabbasi-dev&bg_color=111d2c&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=false" />
-
