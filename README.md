@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/user-attachments/assets/58ed854d-dd98-4db3-b698-fdb59c359f80)
-
 # Hi there, I'm Kiyan! 👋
 
 **💻 Frontend Developer | 🎵 Music Producer**
@@ -12,12 +10,12 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 ### **Frontend Development:**
 
 - **Languages:** HTML, CSS, JavaScript (Advanced)
-- **Frameworks & Libraries:** React (Learning)
+- **Frameworks & Libraries:** React, VueJs
 - **Design & Layout:** Flexbox, Grid, Responsive Design
 
 ### **Tools & Platforms:**
 
-- Git & GitHub
+- Git & GitHub & GitLab
 - API Integration
 - UI/UX Principles
 
@@ -50,7 +48,7 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
     </td>
 <!-- CSS -->
     <td>
-  <img src="https://github.com/user-attachments/assets/1361bc17-550c-4935-87de-c1c383e006f0" alt="Css" width="80"/>
+  <img src="https://github.com/user-attachments/assets/52a01c31-40fa-454f-8941-4b4a8e20c379" alt="Css" width="80"/>      
     </td>
 <!-- javascript -->
       <td>
@@ -60,11 +58,24 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
       <td>
   <img src="https://github.com/user-attachments/assets/f9d807f9-a0bd-40c1-be12-6026ca8985a2" alt="react" width="80"/>
       </td>
+<!-- Vue js -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/6f5961b0-0e69-4da2-8a21-8f88a8978c8a" alt="vuejs" width="80"/>
+      </td>
+
   </tr>
 
 </table>
     <table>
   <tr>
+<!-- Vite -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/b083a936-10bd-4775-ac1a-8aed548321a7" alt="vite" width="80" />
+      </td>
+<!-- webpack -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/fee859e4-2cba-4144-8786-bf08fce69df2" alt="webpack" width="80" />
+      </td>
 <!-- tailwind -->
       <td>
   <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" width="80" />
@@ -85,12 +96,8 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
       <td>
   <img src="https://github.com/user-attachments/assets/da4f58e0-7153-40f5-b68e-e3d7f00f606b" alt="react router" width="80"/>
       </td>
-    <!-- axios -->
-    <td>
-  <img src="https://github.com/user-attachments/assets/22f4cbf1-a508-42d8-a7da-e6d2891b4712" alt="axios" width="80"/>
-    </td>
-
   </tr>
+
 </table>
 
 ## Learning
