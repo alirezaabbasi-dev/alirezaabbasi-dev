@@ -76,6 +76,10 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
       <td>
   <img src="https://github.com/user-attachments/assets/fee859e4-2cba-4144-8786-bf08fce69df2" alt="webpack" width="80" />
       </td>
+    <!-- redux -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/e0eebd6b-59ae-40c4-a3ae-28372469abc6" alt="redux" width="80" />
+      </td>
 <!-- tailwind -->
       <td>
   <img src="https://github.com/user-attachments/assets/19a1b3f3-1b24-4fab-a19f-901f2e0bd5bc" alt="tailwind" width="80" />
@@ -104,10 +108,6 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 
   <table>
     <tr>
-<!-- redux -->
-      <td>
-  <img src="https://github.com/user-attachments/assets/e0eebd6b-59ae-40c4-a3ae-28372469abc6" alt="redux" width="80" />
-      </td>
 <!-- next -->
       <td>
   <img src="https://github.com/user-attachments/assets/6f2b55a5-c294-4b33-b0e7-cd071104546c" alt="next" width="80" />
