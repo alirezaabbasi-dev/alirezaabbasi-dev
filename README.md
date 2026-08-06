@@ -1,16 +1,16 @@
 # Hi there, I'm Kiyan! 👋
 
-**💻 Frontend Developer | 🎵 Music Producer**
+**💻 Web Developer | 🎵 Music Producer**
 Passionate about web development, UI/UX, and creating immersive experiences. Also, a music enthusiast composing and producing tracks! 🚀
 
 ---
 
 ## 🚀 Tech Stack & Skills:
 
-### **Frontend Development:**
+### **Web Development:**
 
-- **Languages:** HTML, CSS, JavaScript (Advanced)
-- **Frameworks & Libraries:** React, VueJs
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, VueJs ,Next.js ,expressjs
 - **Design & Layout:** Flexbox, Grid, Responsive Design
 
 ### **Tools & Platforms:**
@@ -55,6 +55,12 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
       <td>
   <img src="https://github.com/user-attachments/assets/a47564a1-40ee-4a2c-b583-d5bc0eb42473" alt="javascript" width="80"/>
       </td>
+<!-- Typescript -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/9894eb53-89fa-4e52-9fff-889b8655ddd4" alt="typescript" width="80" />
+      </td>
+    </tr>
+    <tr>
 <!-- Node.js -->
       <td>
   <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="80"/>
@@ -62,6 +68,14 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 <!-- MongoDB -->
       <td>
   <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" alt="express" width="80"/>
+      </td>
+<!-- MySql -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/19ab8869-8793-482f-9249-b311c6e7af20" alt="MySql" width="80"/>
+      </td>
+<!-- Linux -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/91d298cd-f62c-40d3-94b6-ac584b20781d" alt="Linux" width="80"/>
       </td>
     </tr>
   
@@ -147,6 +161,14 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
       <td>
   <img src="https://avatars.githubusercontent.com/u/6019716?s=200&v=4" alt="EsLint" width="80"/>
       </td>
+<!-- Docker -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/8cb9d6ba-2dad-4d28-91a6-358ad98d15dd" alt="Docker" width="80"/>
+      </td>
+<!-- Shadcn -->
+      <td>
+  <img src="https://github.com/user-attachments/assets/de4b2164-2cb3-4c1d-9d9a-82d67f11b2bf" alt="Shadcn" width="80"/>
+      </td>
   </tr>
 
 </table>
@@ -155,10 +177,6 @@ Passionate about web development, UI/UX, and creating immersive experiences. Als
 
   <table>
     <tr>
-<!-- Typescript -->
-      <td>
-  <img src="https://github.com/user-attachments/assets/9894eb53-89fa-4e52-9fff-889b8655ddd4" alt="typescript" width="80" />
-      </td>
 <!-- Jest -->
       <td>
   <img src="https://avatars.githubusercontent.com/u/103283236?s=200&v=4" alt="Jest" width="80"/>
